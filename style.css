@@ -211,7 +211,7 @@ figure {
   height: 100%;
 }
 #fixed {
-  background-image: url('img/mac.png');
+  background-image: url('https://res.cloudinary.com/dny4fdht3/image/upload/v1615745247/bootstrap%20website/mac_luzemo.png');
   position: fixed;
   display: block;
   top: 0;
